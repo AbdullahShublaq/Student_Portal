@@ -1,0 +1,27 @@
+
+.pe-7s-right-arrow:before{
+    font-size: 2em;
+    color: #00e;
+}
+
+.pe-7s-plus:before{
+    font-size: 2em;
+    color: #0e0;
+}
+
+.pe-7s-trash:before{
+    font-size: 2em;
+    color: #e00;
+}
+
+.pe-7s-right-arrow:hover{
+    cursor: pointer;
+}
+
+.pe-7s-plus:hover{
+    cursor: pointer;
+}
+
+.pe-7s-trash:hover{
+    cursor: pointer;
+}
